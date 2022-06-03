@@ -1,0 +1,95 @@
+    *{
+    background-color: #fafafa;
+    }
+
+    /* Style for Login */
+    
+    #maindiv{
+    display: block;
+    height: 520px;
+    width: 520px;
+    margin: auto;
+    border-style: solid;
+    border-width: 0.01em;
+    border-color: #e9e3e3 ;
+    padding: 20px;
+    margin-top: 100px;
+    background-color: #fff;
+    }
+    
+    #logo{
+    background-color: #fff;
+    display: block;
+    margin: auto;
+    text-align: center
+    }
+    
+    #form1{
+    background-color: #fff; 
+    }
+    
+
+    #did{
+    display: block;
+    margin: auto;
+    width: 380px;
+    border: 1px solid #e9e3e3 ;
+    background-color: #fafafa;
+    height: 40px;
+    margin-bottom: 10px;
+    }
+    
+    #password{
+    display: block;
+    margin: auto;    
+    width: 380px;
+    border: 1px solid #e9e3e3 ;
+    background-color: #fafafa;
+    height: 40px;
+    margin-bottom: 15px;
+    }
+    
+    #login{
+    display: block;
+    margin: auto;
+    width: 280px;
+    border: 1px solid #e9e3e3 ;
+    background-color: rgb(24, 153, 84);
+    height: 40px;
+    border-radius: 10px;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+    }
+    
+    #repassword{
+    color: black ;
+    text-align: center;
+    background-color: #fff;
+    }
+    
+    #newaccount{
+    display: block;
+    margin: auto;
+    width: 280px;
+    border: 1px solid #e9e3e3 ;
+    background-color: rgb(41, 25, 212);
+    height: 40px;
+    border-radius: 10px;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+    }
+    
+    #signin{
+    display: block;
+    margin: auto;
+    width: 280px;
+    border: 1px solid #e9e3e3 ;
+    background-color: rgb(24, 153, 84);
+    height: 40px;
+    border-radius: 10px;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+    }

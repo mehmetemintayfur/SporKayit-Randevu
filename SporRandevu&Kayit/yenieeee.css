@@ -1,0 +1,160 @@
+*{
+    background-color: #fafafa;
+}
+body{
+    margin: 0;
+}
+#k{
+    width: 100% ;
+    height: 93px;
+    border-bottom: 1px,solid,black;
+    display: flex;
+}
+
+#logo{
+    width: 30%;
+    height: 70px;
+    margin-left: 60px;
+    margin-top: 23px;
+}
+
+#user{
+    position: absolute;
+    right: 0px;
+    margin-right: 80px;
+    margin-top: 35px;
+    font-size: 23px;
+    color: #7089a2;
+    text-transform: uppercase;
+}
+
+#nvbar{
+    width: 100%;
+    height: 60px;
+    background-color: #444d58;
+    display: flex;
+}
+
+#seans{
+    width: 200px;
+    height: 40px;
+    background-color: #444d58;
+    margin: auto;
+    padding-top: 17px;
+    font-size: 25px;
+}
+
+#aktiviteler{
+    width: 200px;
+    height: 40px;
+    background-color: #444d58;
+    padding-top: 17px;
+    font-size: 25px;
+    padding-right: 200px;
+}
+
+#govde{
+    width: 100%;
+    height: 600px;
+    background-color: #eff3f8;
+}
+
+#duyuru{
+    width: 65%;
+    height: 200px;
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 230px;
+
+}
+
+#duyurubasligi{
+    width: 98%;
+    height: 60px;
+    background-color: #555;
+    font-size: 30px;
+    color: #fafafa;
+    padding-top: 15px;
+    padding-left: 18px;
+    margin-top: 40px;
+}
+
+#duyuru p{
+    font-size: 22px;
+    background-color: white;
+    color: #746450;
+    padding-left: 20px;
+}
+
+#infos{
+    width: 100%;
+    height: 154px;
+    background-color: #48525e;
+   
+}
+
+
+#infos2{
+    width: 100%;
+    height: 106px;
+    background-color: #3b434c;
+}
+
+#infos3{
+    width: 90%;
+    height: 80px;
+    background-color: #48525e;
+    display: block;
+    padding-left: 70px;
+    padding-top: 24px;
+    font-size: 22px;
+}
+
+
+a:link {
+    color: #b1b8c0;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  .us:link {
+    color: #15273c;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .us:visited {
+    color: #651f57;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .us:hover {
+    color: #337ab7;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .us:active {
+    color: #337ab7;
+    background-color: transparent;
+    text-decoration: none;
+  }

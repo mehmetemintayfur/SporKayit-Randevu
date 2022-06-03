@@ -1,0 +1,100 @@
+  *{
+    background-color: #fafafa;
+  }
+
+ /*  Style for Signin  */
+
+  #maindiv2{
+    display: block;
+    height: 550px;
+    width: 520px;
+    margin: auto;
+    border-style: solid;
+    border-width: 0.01em;
+    border-color: #e9e3e3 ;
+    padding: 20px;
+    margin-top: 100px;
+    background-color: #fff;
+ }
+ 
+ #form2{
+    background-color: #fff; 
+ }
+
+ #logo2{
+    background-color: #fff;
+    display: block;
+    margin: auto;
+    text-align: center
+ }
+
+ #fname{
+    display: block;
+    margin: auto;
+    width: 380px;
+    border: 1px solid #e9e3e3 ;
+    background-color: #fafafa;
+    height: 40px;
+    margin-bottom: 10px;
+ }
+
+ #lname{
+    display: block;
+    margin: auto;
+    width: 380px;
+    border: 1px solid #e9e3e3 ;
+    background-color: #fafafa;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+ #email{
+    display: block;
+    margin: auto;
+    width: 380px;
+    border: 1px solid #e9e3e3 ;
+    background-color: #fafafa;
+    height: 40px;
+    margin-bottom: 10px;
+ }
+ 
+ #did2{
+    display: block;
+    margin: auto;
+    width: 380px;
+    border: 1px solid #e9e3e3 ;
+    background-color: #fafafa;
+    height: 40px;
+    margin-bottom: 10px;
+ }
+    
+ #password2{
+    display: block;
+    margin: auto;    
+    width: 380px;
+    border: 1px solid #e9e3e3 ;
+    background-color: #fafafa;
+    height: 40px;
+    margin-bottom: 15px;
+ }
+
+ #a{
+    display: block;
+    margin: auto;  
+    font-size: 18px;
+    background-color: #fff;
+    margin-left: 65px;
+ }
+
+ #signin{
+    display: block;
+    margin: auto;
+    width: 280px;
+    border: 1px solid #e9e3e3 ;
+    background-color: rgb(24, 153, 84);
+    height: 40px;
+    border-radius: 10px;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+ }
